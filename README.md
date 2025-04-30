@@ -1,2 +1,2 @@
-# Geoestadistica-tavera
+# Geoestadística-tavera
 Contiene proyecto de geoestadística
